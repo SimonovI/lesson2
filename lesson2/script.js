@@ -10,5 +10,5 @@ console.log(typeof money,typeof income,typeof deposit);
 console.log(income.length);
 console.log(period + " " + "Месяца", mission + " " + 'рублей');
 console.log(addExpenses.toLowerCase().split(", "));
-//money / 30 = budgetDay;
+console.log(budgetDay);
 console.log(money % 30);
